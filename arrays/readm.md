@@ -1,3 +1,4 @@
-# Data Structures and algorithms
+# Array practice
 
-- Will update this readme later
+- Will update this upon completing all array walk throughs
+- Goal: C#, JavaScript, and Python ~ for the time being
