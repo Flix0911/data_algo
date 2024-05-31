@@ -138,7 +138,7 @@ void pushback(int n) {
 
 ```
 
-![img]https://i.imgur.com/bezBIV7.jpg[/img]
+![img](https://i.imgur.com/bezBIV7.jpg)
 
 - Since the array is dynamic, adding another element when we run out of capacity is achieved by copying over the values to a new array that is double the original size - this means that the resulting array will be of size 6 and will have new space allocated for it in memory. The following visual and pseudocode demonstrates this.
 
