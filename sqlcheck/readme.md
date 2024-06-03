@@ -2,6 +2,8 @@
 
 - Reference the below links ~ `'X':O` will indicate a completed practice
 
+---
+
 - Link - `https://datalemur.com/blog/games-to-learn-sql#sql-murder-mystery:O`
 
 - Notes:
@@ -25,3 +27,8 @@
                         - membership_id/90081
                             - person_id/16371 ~ name/annabel miller
         - Lasonya Wildey - 17729 ~ 439686 ~ 3824 ~ northwestern dr ~ 917817122
+
+
+---
+
+- Link - `https://sql-island.informatik.uni-kl.de/:O`
