@@ -146,3 +146,7 @@
 - Complete
 
 ---
+
+- Quick https://sqlzoo.net/wiki/Nobel_Quiz :O
+
+    - DISTINCT for 1 off (diffrent) values
